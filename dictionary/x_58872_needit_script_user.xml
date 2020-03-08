@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="Script User" max_length="40" name="x_58872_needit_script_user" type="collection">
+        <element label="Script Password" max_length="24" name="script_password" type="string"/>
+    </element>
+</database>
