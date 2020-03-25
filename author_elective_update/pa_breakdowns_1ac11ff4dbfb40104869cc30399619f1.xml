@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdowns">
+    <pa_breakdowns action="DELETE">
+        <data_source/>
+        <default_filter/>
+        <description>Second Level NeedIt Breakdown</description>
+        <dimension display_value="NeedIt Request type">5f8b8e13dbab40104869cc303996198a</dimension>
+        <display>true</display>
+        <facts_table/>
+        <field/>
+        <groups/>
+        <id/>
+        <name>NeedItSecLevel </name>
+        <role_override>true</role_override>
+        <roles/>
+        <script/>
+        <scripted>false</scripted>
+        <sql_statement/>
+        <sys_class_name>pa_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 20:08:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ac11ff4dbfb40104869cc30399619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedItSecLevel </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_breakdowns_1ac11ff4dbfb40104869cc30399619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 20:08:29</sys_updated_on>
+        <type>1</type>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_breakdowns>
+    <sys_translated_text action="DELETE" query="documentkey=1ac11ff4dbfb40104869cc30399619f1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>18f3bf53db703b4052cec59705961905</instance_id>
+        <instance_name>dev82109</instance_name>
+        <name>pa_breakdowns_1ac11ff4dbfb40104869cc30399619f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdowns"><pa_breakdowns action="INSERT_OR_UPDATE"><data_source/><default_filter/><description>Second Level NeedIt Breakdown</description><dimension display_value="NeedIt Request type">5f8b8e13dbab40104869cc303996198a</dimension><display>true</display><facts_table/><field/><groups/><id/><name>NeedItSecLevel </name><role_override>true</role_override><roles/><script/><scripted>false</scripted><sql_statement/><sys_class_name>pa_breakdowns</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 20:08:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1ac11ff4dbfb40104869cc30399619f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedItSecLevel </sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_breakdowns_1ac11ff4dbfb40104869cc30399619f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 20:08:29</sys_updated_on><type>1</type><users/><visible_to>2</visible_to></pa_breakdowns><sys_translated_text action="delete_multiple" query="documentkey=1ac11ff4dbfb40104869cc30399619f1"/></record_update>]]></payload>
+        <payload_hash>-222162785</payload_hash>
+        <record_name>NeedItSecLevel </record_name>
+        <reverted_from/>
+        <source>12646bb6db6300104869cc30399619c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 20:08:29</sys_created_on>
+        <sys_id>80621b78dbfb40104869cc3039961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710e29240a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 20:08:29</sys_updated_on>
+        <type>Breakdown</type>
+        <update_guid>fb521b7884fb4010bd35798f299e8b42</update_guid>
+        <update_guid_history>fb521b7884fb4010bd35798f299e8b42:-222162785</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedItSecLevel ">ec135f4ddbbb80104869cc30399619a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 14:50:01</sys_created_on>
+        <sys_db_object display_value="" name="pa_breakdowns">pa_breakdowns</sys_db_object>
+        <sys_id>2fdcd4072ae841be9b2be82fb6d65f24</sys_id>
+        <sys_metadata>1ac11ff4dbfb40104869cc30399619f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedItSecLevel </sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_breakdowns_1ac11ff4dbfb40104869cc30399619f1</sys_update_name>
+        <sys_update_version display_value="pa_breakdowns_1ac11ff4dbfb40104869cc30399619f1">80621b78dbfb40104869cc3039961943</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 14:50:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
